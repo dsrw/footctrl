@@ -1,0 +1,9 @@
+# vendor firmware, builds and anything decrypted stay out of the repo
+*.fwsc
+*.ufw
+*.bin
+*.elf
+*.o
+*.dis
+out/
+__pycache__/
